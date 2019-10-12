@@ -62,3 +62,7 @@ typings/
 
 # JetBrains
 .idea
+
+# Output Directory
+downloads/
+!downloads/.keep
